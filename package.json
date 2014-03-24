@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "noble": "~0.3.0",
-    "debug": "~0.7.2",
+    "debug": "",
     "bleno": "~0.1.0"
   },
   "devDependencies": {
